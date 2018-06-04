@@ -1,0 +1,13 @@
+/* Louis Cai
+*Period 4
+*Ms. Tanzosh
+*/
+
+1) Using arrays efficiently and cleanly allows the creation of multiple variables by storing their data in a array that can obtained anywhere in the code and be manipulated with loops to created extra
+variables in response to inputs.
+in the code.
+2) To create bubbles array, we used a very familiar type of for loop to create a set amount of bubbles by modifying the value i until it was equal to 100 to not only create the bubbles stored in the array but
+to also draw them. The loop in the setup function has the properties of the bubbles to assign the various characteristics of each bubble (randomized due to the usage of the random function) while the loop in
+the draw function fills locations of the bubbles with their proper color and places them at their locations.
+3) One major struggle I had with assigning their colors and sizes since it appeared to simply not work as intended. However, after asking for help from Ms. Tanzoh I learned that I needed to modify the
+variables in the fill function since they were actually only drawing data from bubbles1 when they should be bubbles[i].color and size to take into account the new bubbles that are beyond 1 or 2.

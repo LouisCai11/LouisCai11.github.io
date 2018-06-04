@@ -1,0 +1,10 @@
+/* Louis Cai
+*Period 4
+*Ms. Tanzosh
+*/
+
+1) A javascript object is a variable that can store data and be given properties to make it interactive to both user input and enviromental input.
+2) Using objects allows us to do things that wouldn't be possible with the mostly static javascript code which, at best has animated gifs and buttons to interact with. Objects allow for the possiblility of games, animation,
+and more stylistic websites where static images and gifs cannot work or do an ineffective job such as having a circle bounce ontop of some buttons.
+3) Some difficulties I had with javascript objects is identifying how certain pieces of code are related to each other or interact with each other such as the color of the bubble and the fill function which I was not fully
+aware of that the problem I had with the bubble's color lay with the value inputed for fill which I orginally thought only covered the old images made by the object's movement.
